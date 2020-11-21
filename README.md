@@ -1,5 +1,5 @@
 # PureCom
-![PureCom Logo](https://ibb.co/P9FrMrG)
+[![FEHzss.md.png](https://iili.io/FEHzss.md.png)](https://freeimage.host/i/FEHzss)
 Current Compatibility:
 - [x] Windows Support
 - [x] Linux Support
