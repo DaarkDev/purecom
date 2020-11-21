@@ -3,3 +3,4 @@
 
 Latest Version Details:
 > v1.1.2.9_11.21.2020
+> [Changelog.md](https://github.com/DaarkDev/purecom/blob/main/changelog.md)
