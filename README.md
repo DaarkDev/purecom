@@ -107,3 +107,30 @@ better to use the forward slash (/) instead of the backslash (\). It is possible
 is also applicable to the regular distributions of linux and not just on [repl.it](https://www.repl.it),
 but I cannot know for sure. Keep in mind that these opinions are based off of what I have
 found within a primarily short time range, so they could vary depending on the scenario.
+
+### Current support and compatibility
+Keep in mind that the windows distribution is the native version of PureCom, and has been
+much more tested than the linux/[repl.it](https://www.repl.it) distribution. Generally speaking,
+I find the native version to be much more functional and reliable, but still feel free to experiment
+with the other version as well. You should also keep in mind that the native version (For Windows)
+is all that you will find on this github repository. If you would like to download or use the other
+version, join the discord which will be listed below near the bottom of the page.
+
+Current representation of compatibility:
+- [x] Windows
+- [x] Linux/[repl.it](https://www.repl.it)
+
+Comparison (Keep in mind that the following is my opinion, not necessarily truth in every scenario):
+  - Windows:
+    - [x] More thoroughly tested.
+    - [x] Generally more reliable.
+    - [x] Native distribution.
+    - [x] Primarily maintained version.
+    - [x] Easier to setup and use.
+    - [x] Updated more frequently.
+    - [x] Better testing and support for main features.
+  - Linux/[repl.it](https://www.repl.it)
+    - [x] More efficient due to linux OS nature.
+    - [x] Will Require less system resources. (Even though both versions call for barely anything)
+    - [x] More compatibility due to online nature. (Chrome OS, etc)
+    - [x] Can be used on the go since it is primarily online.
