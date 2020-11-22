@@ -96,14 +96,14 @@ and/or confusion, but this is saying that it is possibly that it could, which is
 
 Method #1 (Windows):
 > This section is for users who are using windows. I've found that on this platform,
-it is generally better to use the backslash (\) instead of the forward slash (/) when
+it is generally better to use the backslash (\\) instead of the forward slash (/) when
 executing system commands within PureCom. This is what's recommended, but is not
 necessarily universally applicable in all scenarios according to the parameters.
 
 Method #2 (Linux, repl.it):
 > This section is for users who are using the linux distribution of PureCom, specifically
 on [repl.it](https://www.repl.it). My opinion is that generally, you will find that it is
-better to use the forward slash (/) instead of the backslash (\). It is possible that this
+better to use the forward slash (/) instead of the backslash (\\). It is possible that this
 is also applicable to the regular distributions of linux and not just on [repl.it](https://www.repl.it),
 but I cannot know for sure. Keep in mind that these opinions are based off of what I have
 found within a primarily short time range, so they could vary depending on the scenario.
@@ -134,3 +134,37 @@ Comparison (Keep in mind that the following is my opinion, not necessarily truth
     - [x] Will Require less system resources. (Even though both versions call for barely anything)
     - [x] More compatibility due to online nature. (Chrome OS, etc)
     - [x] Can be used on the go since it is primarily online.
+
+*In the end, I think that it comes down to personal preference and where you want to use it.*
+
+### Command Compatibility
+If this documentation length is scaring you, don't worry, it's very easy to use and simplistic.
+If it's not, then good for you! In this section, I'll be talking about how to properly utilize
+commands to avoid errors whenever you can. This should be relatively short, as there isn't as
+much to say here and I should be able to say everything needed in a shorter length. Let's get
+started! One of the main things is making sure you know how to properly rename and move files
+and directories. Also, keep in mind that this section is strictly for the native version for
+windows, as the linux/[repl.it](https://www.repl.it) distribution simply hasn't been tested
+enough for me to say firmly. Although, keep in mind that this may not necessarily always
+stay true and it is just what my opinion is and what I have found.
+
+Properly utilizing the renaming commands:
+When using the ``> /rename-file`` command, make sure you are following the correct syntax,
+and always using backslashes (\\) whenever necessary:
+```lua
+> /rename-file dir\xyz.format dir\newname.format
+```
+This command is strictly __NOT__ meant to be used for moving files or directories. It is only
+meant to rename files, and should work as long as the syntax is correct and the location of the
+file is still maintained.
+
+How to use the other renaming command:
+This is the second of two renaming commands, and is meant to move and rename directories, as well
+as also move files. Keep in mind it also may work for other tasks such as plainly renaming files,
+but is not the intended usage so it is recommended to use a simpler ``> /rename-file`` command
+if that is what you are trying to accomplish:
+```lua
+> /rm-file dir\xyz.format dir\newdir\xyz.format
+```
+Always make sure to use backslashes (\\) when necessary to avoid possible errors and problems.
+
