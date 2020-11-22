@@ -295,11 +295,11 @@ updating the ``file_bytes`` key's value in the global table ``system`` after.
     - [Invite link.](https://discord.gg/aEvNWXZVCz)
 
 ### Disclaimer
-```It is my request that if you make a different version or distribution of my software then please
+*It is my request that if you make a different version or distribution of my software then please
 give basic credit to me as well as make all of the source openly viewable so anyone and everyone can
 view and learn from it. You are welcome to modify it, just please be honest and maintain integrity
 as I expect most people would. My biggest goal for this project is for it to be open-sourced to that
 anyone and everyone from all ages and levels of knowledge & understanding from rookie all the way to
 professional can be able to openly use this software. Please DM me on discord if you have any comments
 or concerns, my contact information is listed above as well as the discord server invite link. If you
-somehow made it this far into the README file, then I congratulate you. Thanks for reading!```
+somehow made it this far into the README file, then I congratulate you. Thanks for reading!*
