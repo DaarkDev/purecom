@@ -1,4 +1,4 @@
--- Github Open Source PureCom
+-- Github Open Source PureCom v1.1.2.9
 --[[
     Feel free to edit code but please credit me as the original creator.
 
