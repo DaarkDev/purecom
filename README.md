@@ -283,3 +283,13 @@ to the amount of bytes it should have, by displaying a report status with some
 information as well as what percent of bytes the file has that it should have.
 This is one of the reasons why you should not modify the ``main.lua`` file without
 updating the ``file_bytes`` key's value in the global table ``system`` after.
+
+### Contributors
+  - Daark#8745
+    - [x] Main Author & Owner
+    
+### Contact Information
+  - Main Author & Owner
+    - Daark#8745
+  - Community Discord Server
+    - [Invite link.](https://discord.gg/aEvNWXZVCz)
