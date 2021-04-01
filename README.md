@@ -9,7 +9,7 @@ we do plan to primarily use a code name once we think of a good one.
 
 We are trying to sort of "revamp" this project by making different
 distributions to fit the environment you are running. However, the
-exception to this is macOS because we do not plan to support because
+exception to this is macOS because we do not plan to support it because
 I'm sorry but if you code on any apple product you are (most likely)
 a soydev willing to buy any garbage product they produce. Our new
 primary target platform will be the family of Linux operating
