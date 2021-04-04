@@ -1,20 +1,20 @@
-# FileLink
+# CoDeX
 
-This project is a huge work in progess, so the old documentation/readme file
-can be found [here](https://ghostbin.co/paste/wwqdm).
+CoDeX (pronounced "co-deck") is a distribution that sources primarily from the original
+purecom repository code, but has been modified and tweaked to run on linux with more
+features, linux compatibility, and bug fixes. The "co" part of the name refers to the term
+"co-op", meaning that is stems from and works with the original purecom. The second half of
+the name, "deck", means that it is a deck of new features and changes, or metaphorically
+"a different deck of cards". 
 
-Currently, FileLink is the new formal name of this project but is subject
-to change especially if a better name suggestion is submitted. Although,
-we do plan to primarily use a code name once we think of a good one.
+CoDeX has currently been tested on the Raspberry Pi 4 operating system for a while now,
+and as far as I can tell it is basically fully compatible. I will try to be focusing
+more on this version of filelink (previously purecom) because it can run faster
+since it runs on linux. As far as I know, it should also be compatible with most
+other linux based operating systems as long as you have lua5.1 installed and
+some other feature-dependencies that should come pre-installed on all if not most
+linux distributions.
 
-We are trying to sort of "revamp" this project by making different
-distributions to fit the environment you are running. However, the
-exception to this is macOS because we do not plan to support it because
-I'm sorry but if you code on any apple product you are (most likely)
-a soydev willing to buy any garbage product they produce. Our new
-primary target platform will be the family of Linux operating
-systems, but we should also have a distribution specifically
-for windows at some point.
-
-If you have any suggestions or questions please contact me at:
-geox25op@gmail.com
+Hopefully soon I should be able to test it's compatibility with Ubuntu, but I don't
+know for sure when. If anyone is interested in reporting bugs, you can email me (here)[geox25op@gmail.com]
+or you can submit an issue/pull request here on the repository. 
