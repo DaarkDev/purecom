@@ -16,5 +16,5 @@ some other feature-dependencies that should come pre-installed on all if not mos
 linux distributions.
 
 Hopefully soon I should be able to test it's compatibility with Ubuntu, but I don't
-know for sure when. If anyone is interested in reporting bugs, you can email me (here)[geox25op@gmail.com]
+know for sure when. If anyone is interested in reporting bugs, you can email me [here](geox25op@gmail.com)
 or you can submit an issue/pull request here on the repository. 
